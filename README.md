@@ -1,2 +1,2 @@
 # AygazMakineOgrenmesi
-Aygaz Makine Öğrenmesi bootcampi birinci proje
+Aygaz ML Bootcamp from Global AI Hub, a medical cost analysis machine learning project
